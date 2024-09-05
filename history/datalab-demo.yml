@@ -1,7 +1,7 @@
 url: https://demo.datalab-org.io
-status: up
-code: 200
-responseTime: 390
-lastUpdated: 2024-09-05T10:42:12.549Z
+status: down
+code: 502
+responseTime: 455
+lastUpdated: 2024-09-05T21:47:02.275Z
 startTime: 2024-07-19T14:31:08.519Z
 generator: Upptime <https://github.com/upptime/upptime>
