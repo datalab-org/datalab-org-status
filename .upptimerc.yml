@@ -8,10 +8,10 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Datalab Demo
     url: https://demo.datalab-org.io
-    maxResponseTime: 10000
   - name: Datalab Demo API
     url: https://demo-api.datalab-org.io/healthcheck/is_ready
-    maxResponseTime: 10000
+  - name: Datalab pURL resolver
+    url: https://purl.datalab-org.io
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
