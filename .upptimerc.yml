@@ -12,7 +12,7 @@ sites:
     url: https://demo-api.datalab-org.io/healthcheck/is_ready
   - name: Datalab pURL resolver
     url: https://purl.datalab-org.io
-  - name: yeLLowaMmer
+  - name: yeLLowhaMmer
     url: https://yellowhammer.datalab-org.io
     
 status-website:
