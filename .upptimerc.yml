@@ -12,6 +12,8 @@ sites:
     url: https://demo-api.datalab-org.io/healthcheck/is_ready
   - name: Datalab pURL resolver
     url: https://purl.datalab-org.io
+  - name: yeLLowaMmer
+    url: https://yellowhammer.datalab-org.io
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
