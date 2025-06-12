@@ -53,11 +53,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/purl.datalab-org.io.ico",
     "slug": "datalab-p-url-resolver",
     "status": "up",
-    "uptime": "86.98%",
+    "uptime": "87.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.98%",
+    "uptimeYear": "87.02%",
     "time": 557,
     "timeDay": 669,
     "timeWeek": 600,
@@ -104,7 +104,7 @@
     "url": "https://yellowhammer.datalab-org.io",
     "icon": "https://icons.duckduckgo.com/ip3/yellowhammer.datalab-org.io.ico",
     "slug": "ye-l-lowha-mmer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -116,6 +116,7 @@
     "timeMonth": 224,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2025-06-12": 0,
       "2025-03-14": 8
     }
   }
