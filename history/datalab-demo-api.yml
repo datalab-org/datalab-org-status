@@ -1,7 +1,7 @@
 url: https://demo-api.datalab-org.io/healthcheck/is_ready
 status: up
 code: 200
-responseTime: 655
-lastUpdated: 2025-07-24T23:27:14.221Z
+responseTime: 485
+lastUpdated: 2025-07-25T23:26:43.686Z
 startTime: 2024-10-17T15:06:09.061Z
 generator: Upptime <https://github.com/upptime/upptime>
