@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.datalab-org.io.ico",
     "slug": "datalab-demo",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 582,
-    "timeDay": 636,
-    "timeWeek": 610,
-    "timeMonth": 607,
+    "timeDay": 463,
+    "timeWeek": 581,
+    "timeMonth": 599,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2025-03-02": 60
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 573,
-    "timeDay": 530,
-    "timeWeek": 566,
-    "timeMonth": 575,
-    "timeYear": 573,
+    "time": 572,
+    "timeDay": 381,
+    "timeWeek": 522,
+    "timeMonth": 567,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-08-28": 24,
       "2025-08-22": 47,
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/purl.datalab-org.io.ico",
     "slug": "datalab-p-url-resolver",
     "status": "up",
-    "uptime": "90.94%",
+    "uptime": "90.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.89%",
+    "uptimeYear": "93.20%",
     "time": 556,
-    "timeDay": 649,
-    "timeWeek": 586,
-    "timeMonth": 585,
+    "timeDay": 419,
+    "timeWeek": 566,
+    "timeMonth": 577,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2025-01-17": 636,
@@ -81,8 +81,7 @@
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
-      "2024-09-26": 1440,
-      "2024-09-25": 1440
+      "2024-09-26": 1440
     }
   }
 ]
