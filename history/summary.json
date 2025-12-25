@@ -4,9 +4,9 @@
     "url": "https://demo.datalab-org.io",
     "icon": "https://icons.duckduckgo.com/ip3/demo.datalab-org.io.ico",
     "slug": "datalab-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 604,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2025-12-25": 0,
       "2025-03-02": 60
     }
   },
