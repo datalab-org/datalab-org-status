@@ -54,9 +54,9 @@
     "url": "https://purl.datalab-org.io",
     "icon": "https://icons.duckduckgo.com/ip3/purl.datalab-org.io.ico",
     "slug": "datalab-p-url-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "93.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,6 +65,8 @@
     "timeWeek": 534,
     "timeMonth": 488,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-10": 0
+    }
   }
 ]
